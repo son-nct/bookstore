@@ -2,7 +2,7 @@
 All projects here are used Jsp / Servlet
 
 ## Project 1 : BookStore (Use Bootstrap and Paypal payment integration)
-  - Project is created and authorized into 2 roles: Admin and User(product buyers)
+  - Project is created and authorized into 3 roles: Admin, Unauthenticated User and Authenticated User
     - **Admin**
       - Create new product
       - Update product
