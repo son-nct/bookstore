@@ -1,7 +1,7 @@
 # BACKEND PROJECT
 All projects here are used Jsp / Servlet
 
-## Project 1 : BookStore (Paypal payment integration)
+## Project 1 : BookStore (Use Bootstrap and Paypal payment integration)
   - Project is created and authorized into 2 roles: Admin and User(product buyers)
     - **Admin**
       - Create new product
