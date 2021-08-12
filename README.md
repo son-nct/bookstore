@@ -1,7 +1,7 @@
 # BACKEND PROJECT
 This is a project to simulate an e-commerce site that sells books
 
-## Project : BookStore (Use Bootstrap and Paypal payment integration)
+## Project : BookStore (Use Bootstrap, No Responsive and Paypal payment integration)
   - Project is created and authorized into 3 roles: Admin, Unauthenticated User and Authenticated User
     - **Admin**
       - Create new product
